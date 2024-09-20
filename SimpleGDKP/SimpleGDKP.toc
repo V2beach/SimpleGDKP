@@ -1,0 +1,6 @@
+## Interface: 30403
+## Title: Simple GDKP
+## Notes: A simple gold bidding mod.
+## Dependencies: SimpleTimingLib
+## SavedVariables: SimpleGDKP_Channel, SimpleGDKP_MinBid, SimpleGDKP_ACL, SimpleGDKP_IdleTime
+SimpleGDKP.lua

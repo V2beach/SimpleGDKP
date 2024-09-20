@@ -1,0 +1,4 @@
+## Interface: 30403
+## Title: Simple Timing Library
+## Notes: A simple OnUpdate timing library.
+SimpleTimingLib.lua
