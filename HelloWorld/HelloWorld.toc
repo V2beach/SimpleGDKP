@@ -1,0 +1,8 @@
+## Interface: 30403
+## Title: Hello, World!
+## Title-zhCN: 你好，中国！
+## Notes: My first addon!
+## Description-zhCN: 你好吗，中国？
+localization.core.lua
+localization.zhCN.lua
+HelloWorld.lua
